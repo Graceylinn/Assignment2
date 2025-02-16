@@ -1,68 +1,14 @@
-
-
 body{
-    background-image: url(images\ \(1\).jpg);
+    background:linear-gradient(to right,skyblue, lightgreen);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
 }
-
-h1{
-    background-color: #800000;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+img{
+    max-width: 100%;
+    height: auto;
 }
-
-header{
-    background: white;
-    padding: 10px;
-    text-align: center;
-}
-
-nav{
-    color: aqua;
-    text-decoration: wavy;
-    margin: 0 15px;
-}
-
- h2 h3{
-    color: brown;
-    font-family:'Times New Roman', Times, serif;
-    font-weight:;
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: medium;
  }
- 
- #p1{
-    color: greenyellow;
- }
- #p2{
-    color: green;
- }
- #p3{
-    color: blue;
- }
-
- .Go-to-links{
-    margin: 20px;
-    font-size: 18px;
- }
-
- .Go-to-links{
-    text-decoration: none;
-    color:burlywood;
-    margin-right: 15px;
- }
- .Go-to-links a:hover{
-    text-decoration: underline;
- }
-footer{
-    text-align: center;
-    padding: 10px;
-    background: fixed;
-    color: blue;
-    position: relative;
-    bottom: 0%;
-    width: 100;
-}
-
